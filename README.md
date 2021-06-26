@@ -1,6 +1,8 @@
 # Machine_learning
+## Prof. 이창기
 
 # Marketing Research Capstonedesign
+## Prof. 최민경
 
 
 ## 기말 과제
