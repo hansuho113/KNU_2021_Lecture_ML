@@ -1,13 +1,10 @@
-# Machine_learning
-## Prof. 이창기
-
 # Marketing Research Capstonedesign
-## Prof. 최민경
+Prof. 최민경
 
-
-## 기말 과제
-### 주제 : fashion_mnist 데이터를 사용해서 accuracy를 제일 높게 얻기
-
+# Machine_learning
+Prof. 이창기
+> 기말 과제
+>> fashion_mnist 데이터를 사용해서 accuracy를 제일 높게 얻기
 - 기존 실습에서 했던 것을 기반으로 직접 모델을 자유롭게 구현
 - 하이퍼파라메터는 자유롭게 변동 가능
 - data augmentation 가능
