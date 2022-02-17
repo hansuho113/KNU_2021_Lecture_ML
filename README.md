@@ -10,3 +10,8 @@ Prof. 이창기
 - data augmentation 가능
 - 한다면 왜 그렇게 적용했는지, 어떤 영향이 있는지 설명
 - 최종 accuracy을 출력하고, 학습곡선 그래프 그리기
+
+# Introduction-to-Datascience_2020
+Prof. 김화종
+> 기말 과제
+>> Clustering Assignment
